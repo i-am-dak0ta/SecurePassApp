@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SecurePass</string>
+
+    <!-- Authorization screen -->
+    <string name="auth_header_title">Войдите в свой профиль</string>
+    <string name="auth_header_subtitle">Чтобы войти введите свой логин и пароль</string>
+    <string name="login_title">Логин</string>
+    <string name="password_title">Пароль</string>
+    <string name="log_in_title">Войти</string>
+    <string name="loading_title">Загрузка…</string>
+
+    <!-- Home screen -->
+    <string name="home_screen_title">Домашний экран</string>
+    <string name="send_uid">Передать UID</string>
+
+    <!-- Apdu Service -->
+    <string name="nfc_service_description">NFC Service description</string>
+    <string name="aid_group_description">AID Group description</string>
+
+    <!-- Error -->
+    <string name="error">Ошибка</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="error_field_empty">Поле не может быть пустым</string>
+    <string name="error_field_too_long">Ввод слишком длинный</string>
+    <string name="error_field_too_short">Поле должно содержать минимум 2 символа</string>
+    <string name="error_incorrect_login">Введен неправильный логин</string>
+    <string name="error_incorrect_password">Введен неправильный пароль</string>
+</resources>
